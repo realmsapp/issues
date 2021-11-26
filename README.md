@@ -6,7 +6,7 @@ Public issue tracker for https://realmsapp.com
 
 * [Issues](https://github.com/realmsapp/issues/issues)
 * [Discussions](https://github.com/realmsapp/issues/discussions)
-* [Planning/Execution](https://github.com/orgs/realmsapp/projects/1/views/4)
+* [Roadmap Planning](https://github.com/orgs/realmsapp/projects/1/views/4)
 
 ## Greetings
 
@@ -21,7 +21,7 @@ Please [file an issue](https://github.com/realmsapp/issues/issues) documenting y
 
 Not quite ready to file an issue? Or maybe just want to provide some feedback or ask a question? Start a [Discussion](https://github.com/realmsapp/issues/discussions).
 
-## Roadmap
+## Roadmap Planning
 
 Here you can see the [roadmap of functionality](https://github.com/orgs/realmsapp/projects/1/views/4) that's already in the pipeline.
 
