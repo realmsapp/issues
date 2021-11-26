@@ -11,9 +11,7 @@ Please [file an issue](https://github.com/realmsapp/issues/issues) documenting y
 
 ## Roadmap
 
-Here you can see the [roadmap of functionality](https://github.com/users/tonywok/projects/1) that's already in the pipeline.
-
-_Note: I'm in the process of migrating issues to this repository so they will be visible to the public. The roadmap may appear empty until I've completed this task._
+Here you can see the [roadmap of functionality](https://github.com/orgs/realmsapp/projects/1) that's already in the pipeline.
 
 ## Contact
 
