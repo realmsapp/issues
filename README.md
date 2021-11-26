@@ -31,6 +31,4 @@ If for whatever reason you'd rather connect over email, please send me a message
 
 ---
 
-See you out there :)
-
-- Tony
+See you out there :) - Tony
