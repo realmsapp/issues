@@ -2,11 +2,11 @@
 
 Public issue tracker for https://realmsapp.com
 
-### TLDR:
+### TLDR;
 
-* [Issues](https://github.com/realmsapp/issues/issues)
-* [Discussions](https://github.com/realmsapp/issues/discussions)
-* [Roadmap Planning](https://github.com/orgs/realmsapp/projects/1/views/4)
+* <a href="https://github.com/realmsapp/issues/issues" target="_blank">Issues</a>
+* <a href="https://github.com/realmsapp/issues/discussions" target="_blank">Discussions</a>
+* <a href="https://github.com/orgs/realmsapp/projects/1/views/4" target="_blank">Roadmap Planning</a>
 
 ## Greetings
 
