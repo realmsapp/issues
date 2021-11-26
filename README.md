@@ -2,6 +2,12 @@
 
 Public issue tracker for https://realmsapp.com
 
+### TLDR:
+
+* [Issues](https://github.com/realmsapp/issues/issues)
+* [Discussions](https://github.com/realmsapp/issues/discussions)
+* [Planning/Execution](https://github.com/orgs/realmsapp/projects/1/views/4)
+
 ## Greetings
 
 Why hello there dear adventurer.
@@ -25,5 +31,6 @@ If for whatever reason you'd rather connect over email, please send me a message
 
 ---
 
-Best,
-Tony
+See you out there :)
+
+- Tony
