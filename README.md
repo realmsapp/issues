@@ -4,7 +4,7 @@ Public issue tracker for https://realmsapp.com
 
 ## Greetings
 
-Why hello there dear user of [https://realmsapp.com](https://realmsapp.com).
+Why hello there dear adventurer.
 Thanks for taking an interest in fixing or improving the site.
 
 ### Report an Issue
@@ -22,3 +22,8 @@ Here you can see the [roadmap of functionality](https://github.com/orgs/realmsap
 ## Contact
 
 If for whatever reason you'd rather connect over email, please send me a message to [realmsapp@protonmail.com](mailto:realmsapp@protonmail.com)
+
+---
+
+Best,
+Tony
