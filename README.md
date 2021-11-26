@@ -7,7 +7,13 @@ Public issue tracker for https://realmsapp.com
 Why hello there dear user of [https://realmsapp.com](https://realmsapp.com).
 Thanks for taking an interest in fixing or improving the site.
 
+### Report an Issue
+
 Please [file an issue](https://github.com/realmsapp/issues/issues) documenting your problem or suggestion to the best of your ability and I will respond as soon as I'm able.
+
+### Start a Discussion
+
+Not quite ready to file an issue? Or maybe just want to provide some feedback or ask a question? Start a [Discussion](https://github.com/realmsapp/issues/discussions).
 
 ## Roadmap
 
